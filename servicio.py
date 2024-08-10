@@ -38,4 +38,4 @@ if __name__ == "__main__":
     while True:
         log = generar_log()
         send_log(log)
-        time.sleep(5)
+        time.sleep(10)
